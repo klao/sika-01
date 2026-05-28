@@ -15,3 +15,7 @@ A full-day workshop on the foundations beneath two tools every engineer uses dai
 ## Contact
 
 Mihály Bárász <mihaly.barasz@nilcons.com>
+
+## Feedback form
+
+Your feedback is welcome [here](https://forms.gle/m9zB53zeEn4N2V2K7)!
